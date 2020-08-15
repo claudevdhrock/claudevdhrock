@@ -6,7 +6,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Ffacebook.com%2FclaudiomartinezVDH)](https://facebook.com/claudiomartinezVDH)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fclasesdecanto_claudio)](https://instagram.com/clasesdecanto_claudio)
 
-### Hola Visitante! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hello Visitor! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 My name is Claudio Martinez, I am 30 years old and I like to program   :D
 
