@@ -1,6 +1,6 @@
 ![Format](https://github.com/claudevdhrock/claudevdhrock/blob/master/img/unnamed.gif)
 
 
-### Hola Visitante! 👋
+### Hello Visitor! 👋
 
-Me llamo Claudio Martinez, tengo 30 años y me gusta programar :D
+My name is Claudio Martinez, I am 30 years old and I like to program   :D
