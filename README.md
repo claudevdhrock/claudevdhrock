@@ -8,7 +8,7 @@
 
 ### Hola Visitante! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Me llamo Claudio Martinez, tengo 30 años y me gusta programar  :D
+My name is Claudio Martinez, I am 30 years old and I like to program   :D
 
 **Languages and Tools:** 
 <p align="left">
